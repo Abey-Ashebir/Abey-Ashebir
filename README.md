@@ -1,30 +1,31 @@
 <h1 align="center">Hi 👋, I'm Abey Ashebir</h1>
 
 <h3 align="center">
-Full-Stack Software Engineer | Laravel | Django | React | MERN | Node.js
+Full-Stack Software Engineer | Laravel • Django • React • MERN • Node.js
 </h3>
 
 <p align="center">
-📍 Fitche, North Shoa, Oromia, Ethiopia <br>
-🎓 Software Engineering Graduate – Wolkite University
+Building scalable web applications, RESTful APIs, automation systems, and AI-powered solutions.
 </p>
 
 <p align="center">
-<a href="mailto:abeyashebir@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="https://abeyashebir.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://www.linkedin.com/in/abey-a-b9073b334/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://github.com/Abey-Ashebir">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:abeyashebir@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
 </p>
 
 ---
@@ -33,13 +34,13 @@ Full-Stack Software Engineer | Laravel | Django | React | MERN | Node.js
 
 🎓 Software Engineering graduate from **Wolkite University**
 
-💻 Full-Stack Software Engineer passionate about building scalable web applications.
+💻 Full-Stack Software Engineer passionate about building real-world software solutions.
 
-🌱 Skilled in Laravel, Django, React, MERN Stack, Node.js, REST APIs, and database design.
+⚡ Experienced in Laravel, Django, React, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, and REST APIs.
 
-🤖 Interested in AI-powered applications, automation, and Telegram Bot development.
+🤖 Passionate about AI, automation, Telegram Bot development, and scalable backend systems.
 
-⚡ I enjoy solving real-world problems through clean architecture and modern software engineering practices.
+🌱 Always learning modern technologies and best software engineering practices.
 
 ---
 
@@ -48,7 +49,7 @@ Full-Stack Software Engineer | Laravel | Django | React | MERN | Node.js
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,python,js,java,cpp"/>
+<img src="https://skillicons.dev/icons?i=php,python,javascript,java,cpp"/>
 </p>
 
 ### Frontend
@@ -77,11 +78,11 @@ Full-Stack Software Engineer | Laravel | Django | React | MERN | Node.js
 
 ---
 
-# 🌟 Featured Projects
+# 💼 Featured Projects
 
 ## 🎓 Instructor Evaluation System (IES)
 
-Developed a MERN-based evaluation platform for Wolkite University.
+A MERN Stack platform developed for Wolkite University that digitizes the instructor evaluation process.
 
 ### Features
 
@@ -90,94 +91,123 @@ Developed a MERN-based evaluation platform for Wolkite University.
 - Instructor Dashboard
 - Admin Dashboard
 - Reports & Analytics
+- Responsive UI
 
-**Tech**
+**Tech Stack**
 
-React • Node.js • Express • MongoDB
+React • Node.js • Express • MongoDB • Tailwind CSS
 
 ---
 
 ## 🏫 Selale University Scheduling System
 
-Automatic university course scheduling using a Genetic Algorithm.
+An intelligent timetable generation system using a Genetic Algorithm to automatically generate conflict-free schedules.
 
 ### Features
 
 - Automatic Timetable Generation
-- Conflict Detection
-- Lecturer Allocation
+- Lecturer Assignment
 - Room Allocation
+- Conflict Detection
+- Constraint Optimization
 
-**Tech**
+**Tech Stack**
 
-Django • PostgreSQL • Python • Genetic Algorithm
+Django • Python • PostgreSQL • Genetic Algorithm
 
 ---
 
 ## 🤖 Digital Unity Telegram Bot
 
-Campus business automation platform with Telegram Bot and Mini App.
+A campus business automation platform with Telegram Bot integration and a Mini App.
 
 ### Features
 
-- Lucky Number System
+- Lucky Number Game
 - Payment Verification
+- User Dashboard
 - Admin Dashboard
-- User Management
 - Telegram Mini App
+- MongoDB Integration
 
-**Tech**
+**Tech Stack**
 
 Python • Telegram Bot API • MongoDB • React
 
 ---
 
-## 📱 Other Projects
+## 🌐 Portfolio Website
 
-- 📚 Student Seminar Presentation System
-- 🛒 Tena Mart Waiting List
-- 📍 Local Business Android Application
+A modern responsive portfolio showcasing my projects, skills, and experience.
+
+🔗 https://abeyashebir.netlify.app
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Abey-Ashebir&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abey-Ashebir&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abey-Ashebir&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abey-Ashebir&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abey-Ashebir&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abey-Ashebir&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Abey-Ashebir&theme=onedark)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abey-Ashebir&theme=tokyonight&row=1&column=6"/>
+
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Abey-Ashebir&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abey-Ashebir&theme=tokyo-night"/>
 
 ---
 
-# 📫 Connect With Me
+# 🌍 Connect With Me
 
-<p>
-<a href="mailto:abeyashebir@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<p align="center">
+
+<a href="https://abeyashebir.netlify.app">
+<img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/abey-a-b9073b334/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/Abey-Ashebir">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+<a href="mailto:abeyashebir@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 ---
 
-⭐ *"Building software that solves real-world problems through clean architecture and continuous learning."*
+# 💡 Quote
+
+> *"Turning ideas into scalable software through clean architecture, continuous learning, and real-world problem solving."*
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
